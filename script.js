@@ -1,5 +1,5 @@
 async function mulainama() {
-window.location.replace("https://sayangnya-rafi.ahmad-rafirafi3.repl.co");
+window.location.replace("https://www.feeldream.my.id/2023/01/script-html-bucin.html");
 
            kadoIn.style="display:none";ket.style="display:none";
            Content.style = "opacity:1;margin-top:2vh";
